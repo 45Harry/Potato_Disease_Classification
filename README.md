@@ -7,16 +7,15 @@
 2. Install Python packages
 
 ```
-pip3 install -r training/requirements.txt
 pip3 install -r api/requirements.txt
 ```
 
-3. Install Tensorflow Serving ([Setup instructions](https://www.tensorflow.org/tfx/serving/setup))
+3. Install Tensorflow Serving
 
 ## Setup for ReactJS
 
-1. Install Nodejs ([Setup instructions](https://nodejs.org/en/download/package-manager/))
-2. Install NPM ([Setup instructions](https://www.npmjs.com/get-npm))
+1. Install Nodejs
+2. Install NPM 
 3. Install dependencies
 
 ```bash
